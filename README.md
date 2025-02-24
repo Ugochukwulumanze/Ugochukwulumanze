@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ugochukwu lumanze
-- 👀 I’m interested in software engineering and data analysis
+- 👀 I’m interested in software engineering and data scientist 
 - 🌱 I’m currently working as a backend engineer and I am proficient in programming in python
 - 💞️ I’m looking to collaborate on project that would improve my coding skills
 - 📫 How to reach me through my email address ulumanze@gmail.com
